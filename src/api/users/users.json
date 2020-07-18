@@ -1,0 +1,23 @@
+[{
+  "userId": 1,
+  "userName": "vinodh",
+  "userCode": "ASN-100",
+  "active": true,
+  "DOJ": "2000, 3, 22",
+  "description": "Admin User",
+  "mobile": 922222222,
+  "salary": 30000.52,
+  "rating": 4.2,
+  "imageUrl": "assets/images/Abbott.jpg"
+}, {
+  "userId": 2,
+  "userName": "rahul",
+  "userCode": "ASN-101",
+  "active": false,
+  "DOJ": "2020, 4, 20",
+  "description": "Sales User",
+  "mobile": 9244444444,
+  "salary": 43000,
+  "rating": 4.8,
+  "imageUrl": "assets/images/andrew.jpg"
+}]
